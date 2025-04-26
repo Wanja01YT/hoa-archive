@@ -6,7 +6,6 @@
 A collection dedicated to archiving all versions of Heroes of Artadis.<br/><br/>
 
 > <img src="https://raw.githubusercontent.com/Wanja01YT/hoa-archive/pages/images/svg/tip.svg" width="20" height="20" alt=""> **Tip**
-> 
 > If you have access to a version that is not on this list, feel free to submit them via the [Issues](https://github.com/Wanja01YT/hoa-archive/issues) page.
 
 ## Table of Contents
