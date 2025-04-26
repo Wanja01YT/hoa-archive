@@ -1,10 +1,9 @@
 # Heroes of Artadis Archive
 
 <p align="center">
-
-![GitHub Cover](https://raw.githubusercontent.com/Wanja01YT/hoa-archive/main/images/hoa_archive.png)
-
+  <img src="https://raw.githubusercontent.com/Wanja01YT/hoa-archive/main/images/hoa_archive.png" alt="GitHub Cover">
 </p>
+
 A collection dedicated to archiving all versions of Heroes of Artadis.<br/><br/>
 
 > [!TIP]
