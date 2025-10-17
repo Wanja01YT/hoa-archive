@@ -1,3 +1,7 @@
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+<div class="markdown-body">
+
 # Heroes of Artadis Archive
 <p align="center">
   <img src="https://raw.githubusercontent.com/Wanja01YT/hoa-archive/main/images/hoa_archive.png" alt="GitHub Cover">
@@ -334,3 +338,5 @@ To install some of the old versions, use a tool like [Split APKs Installer (SAI)
   </tr>
 </tbody>
 </table>
+
+</div>
