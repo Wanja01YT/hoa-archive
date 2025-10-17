@@ -1,0 +1,31 @@
+--- ---
+/* GitHub-like markdown with auto light/dark */
+@import "https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.6.1/github-markdown.min.css";
+
+/* Page background to match GitHub’s */
+@media (prefers-color-scheme: light) {
+    body {
+        background: #fff;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background: #0d1117;
+    }
+}
+
+/* Center & pad the content like GitHub */
+.markdown-body {
+    box-sizing: border-box;
+    min-width: 200px;
+    max-width: 980px;
+    margin: 0 auto;
+    padding: 45px;
+}
+
+@media (max-width:767px) {
+    .markdown-body {
+        padding: 15px;
+    }
+}
